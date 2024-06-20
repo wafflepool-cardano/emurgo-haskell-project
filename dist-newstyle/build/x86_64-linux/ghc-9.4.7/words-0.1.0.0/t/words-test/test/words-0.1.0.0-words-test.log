@@ -1,0 +1,15 @@
+Test suite words-test: RUNNING...
+
+formatGrid
+  Should concatenate every line with a newline [✔]
+findWord
+  Should find words that exist on the Grid [✔]
+  Should not find words that do not exist on the Grid [✔]
+findWords
+  Should find all the words that exist on the Grid [✔]
+  Should not find words that do not exist on the Grid [✔]
+
+Finished in 0.0017 seconds
+5 examples, 0 failures
+Test suite words-test: PASS
+Test suite logged to: /home/waffle/haskell/emurgo-final-project/dist-newstyle/build/x86_64-linux/ghc-9.4.7/words-0.1.0.0/t/words-test/test/words-0.1.0.0-words-test.log

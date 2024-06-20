@@ -1,4 +1,4 @@
-# Emurgo Final Project
+# Emurgo Haskell Final Project
 
 This project is a simple word search game implemented in Haskell. The game generates a grid with pre-defined words hidden within it, and the player must find these words. The game ends either when all words are found or after a maximum number of trials (10 trials).
 
